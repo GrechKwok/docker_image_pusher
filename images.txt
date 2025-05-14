@@ -13,4 +13,4 @@ mysql:8.0.39
 postgres:13
 redis:6
 valkey/valkey:8
-minio/minio
+minio/minio:RELEASE.2025-04-22T22-12-26Z

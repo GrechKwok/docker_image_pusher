@@ -14,3 +14,5 @@ postgres:13
 redis:6
 valkey/valkey:8
 minio/minio:RELEASE.2025-04-22T22-12-26Z
+ubuntu:22.04
+ragflow_deps:latest
